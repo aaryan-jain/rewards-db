@@ -1,0 +1,47 @@
+[
+	{
+		"_id" : 6,
+		"totalReviews" : 50,
+		"latitude" : 37.77,
+		"longitude" : -122.42,
+		"openStatus" : "OPEN",
+		"storeTimeId" : null,
+		"storeName" : "Super Mart"
+	},
+	{
+		"_id" : 7,
+		"totalReviews" : 30,
+		"latitude" : 40.71,
+		"longitude" : -74.01,
+		"openStatus" : "CLOSED",
+		"storeTimeId" : null,
+		"storeName" : "City Grocers"
+	},
+	{
+		"_id" : 8,
+		"totalReviews" : 20,
+		"latitude" : 34.05,
+		"longitude" : -118.24,
+		"openStatus" : "OPEN",
+		"storeTimeId" : null,
+		"storeName" : "Downtown Market"
+	},
+	{
+		"_id" : 9,
+		"totalReviews" : 45,
+		"latitude" : 41.88,
+		"longitude" : -87.63,
+		"openStatus" : "OPEN",
+		"storeTimeId" : null,
+		"storeName" : "Metro Foods"
+	},
+	{
+		"_id" : 10,
+		"totalReviews" : 15,
+		"latitude" : 51.51,
+		"longitude" : -0.13,
+		"openStatus" : "CLOSED",
+		"storeTimeId" : null,
+		"storeName" : "Central Superstore"
+	}
+]
